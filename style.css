@@ -9,7 +9,9 @@ body{
     height: 100vh;
     width: 100vw;
     background-color: rgb(60, 59, 59);
-    background: url(imagens/fundo-madeira.jpg);
+    background: url(imagens/fundo-astronauta.png) no-repeat top center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 main{
